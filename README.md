@@ -13,9 +13,9 @@
 </p>
 
 
-
-[![chandrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandrath)](https://github.com/chandrath/github-readme-stats)
-
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=chandrath></a>
+</p>
 
 
 <p align="center">
