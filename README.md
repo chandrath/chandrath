@@ -11,9 +11,9 @@
   <a href="https://github.com/chandrath"><img src="https://github-readme-stats.vercel.app/api?username=chandrath&count_private=true&hide_border=true&show_icons=true?hide=&hide=stars,prs,issues,contribs" alt="chandrath's github stats"></a>
 
 </p>
-
+<p align="center">
 [![chandrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandrath)](https://github.com/chandrath/github-readme-stats)
-
+</p>
 
 <p align="center">
   <strong><a href="https://www.github.com/chandrath">GitHub</a></strong> |
