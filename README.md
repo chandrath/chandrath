@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+
+[![chandrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandrath)](https://github.com/chandrath/github-readme-stats)
+
+</p>
+
+<p align="center">
   <strong><a href="https://www.github.com/chandrath">GitHub</a></strong> |
   <strong><a href="https://twitter.com/chandrath">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/chandrath">LinkedIn</a></strong> |
