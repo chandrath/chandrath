@@ -12,9 +12,6 @@
 
 </p>
 
-<p align="center">
-<a href=https://github-readme-stats.vercel.app/api/wakatime?username=chandrath)](https://github.com/chandrath/github-readme-stats)></a>
-</p>
 
 <p align="center">
   <strong><a href="https://www.github.com/chandrath">GitHub</a></strong> |
