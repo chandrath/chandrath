@@ -4,7 +4,7 @@
   <a href="https://www.twitter.com/chandrath"><img src="MRC_Splash.jpg" alt="chandrath Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.twitter.com/chandrath">Chand Rath</a>!</h1>
+<h1 align="center">Hi, Its <a href="https://www.twitter.com/chandrath">Chand Rath</a>!</h1>
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
