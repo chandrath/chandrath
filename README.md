@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ![Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrath&count_private=true)
 
+[![Chand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?chandrath=chandrath)](https://github.com/chandrath/github-readme-stats)
+
+
 
