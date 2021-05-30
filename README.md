@@ -8,7 +8,7 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <a href="https://github.com/chandrath"><img src="https://github-readme-stats.vercel.app/api?username=chandrath&count_private=true&hide_border=true&show_icons=true" alt="chandrath's github stats"></a>
+  <a href="https://github.com/chandrath"><img src="https://github-readme-stats.vercel.app/api?username=chandrath&count_private=true&hide_border=true&show_icons=true?hide=&hide=stars,prs,issues,contribs" alt="chandrath's github stats"></a>
 
 </p>
 
