@@ -20,7 +20,7 @@
   
 </p>
 
-<p align="center"> App / Game Developer | User Experience Designer | Graphic Designer </p>
+<p align="center"> Unveiling tales through interactive enchantment. </p>
 
 <!--
 **chandrath/chandrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
